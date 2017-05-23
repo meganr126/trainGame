@@ -1,5 +1,5 @@
-### 12/9/15: Megan decides to write a text-based game
-### I don't even know why.
+### 5/23/17: Megan and Christian decide to write a text-based game.
+### We don't know why.
 
 from random import *
 
